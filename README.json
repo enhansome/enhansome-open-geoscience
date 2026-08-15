@@ -14,7 +14,7 @@
             "last_commit": "2026-07-21T09:10:54Z",
             "owner": "sshuair",
             "repo": "awesome-gis",
-            "stars": 5474
+            "stars": 5473
           }
         },
         {
@@ -162,7 +162,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T10:58:17Z",
+            "last_commit": "2026-08-14T11:54:57Z",
             "owner": "pastas",
             "repo": "pastas",
             "stars": 449
@@ -392,7 +392,7 @@
           "repo_info": {
             "archived": false,
             "language": "R",
-            "last_commit": "2026-07-31T13:36:08Z",
+            "last_commit": "2026-08-14T22:23:49Z",
             "owner": "emanuelhuber",
             "repo": "RGPR",
             "stars": 223
@@ -541,7 +541,7 @@
             "last_commit": "2025-11-03T04:20:02Z",
             "owner": "bsomps",
             "repo": "OpenGeoPlotter",
-            "stars": 39
+            "stars": 40
           }
         }
       ],
@@ -561,7 +561,7 @@
             "last_commit": "2026-08-13T14:29:00Z",
             "owner": "gempy-project",
             "repo": "gempy",
-            "stars": 1325
+            "stars": 1326
           }
         },
         {
@@ -572,7 +572,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T00:01:55Z",
+            "last_commit": "2026-08-15T00:47:36Z",
             "owner": "simpeg",
             "repo": "simpeg",
             "stars": 667
@@ -600,7 +600,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T04:09:13Z",
+            "last_commit": "2026-08-14T11:35:29Z",
             "owner": "Loop3D",
             "repo": "LoopStructural",
             "stars": 282
@@ -673,7 +673,7 @@
             "last_commit": "2025-03-19T00:00:56Z",
             "owner": "bsomps",
             "repo": "BlenderGeoModeller",
-            "stars": 48
+            "stars": 52
           }
         },
         {
@@ -746,7 +746,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-13T13:53:58Z",
+            "last_commit": "2026-08-14T16:05:53Z",
             "owner": "OPM",
             "repo": "ResInsight",
             "stars": 214
@@ -760,7 +760,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-13T13:29:04Z",
+            "last_commit": "2026-08-14T12:01:06Z",
             "owner": "equinor",
             "repo": "resdata",
             "stars": 128
@@ -867,7 +867,7 @@
             "last_commit": "2026-01-21T15:08:22Z",
             "owner": "mmaelicke",
             "repo": "scikit-gstat",
-            "stars": 249
+            "stars": 246
           }
         },
         {
@@ -1244,10 +1244,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T04:59:33Z",
+            "last_commit": "2026-08-15T03:33:11Z",
             "owner": "pyvista",
             "repo": "pyvista",
-            "stars": 3768
+            "stars": 3770
           }
         },
         {
@@ -1261,7 +1261,7 @@
             "last_commit": "2026-05-07T12:49:17Z",
             "owner": "jupyter-widgets",
             "repo": "ipyleaflet",
-            "stars": 1537
+            "stars": 1538
           }
         },
         {
@@ -1379,7 +1379,7 @@
             "last_commit": "2026-08-13T17:59:48Z",
             "owner": "OSGeo",
             "repo": "grass",
-            "stars": 1153
+            "stars": 1155
           }
         },
         {
@@ -1390,7 +1390,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-13T15:47:24Z",
+            "last_commit": "2026-08-14T15:32:51Z",
             "owner": "Geode-solutions",
             "repo": "OpenGeode",
             "stars": 178
@@ -1404,7 +1404,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-13T22:19:10Z",
+            "last_commit": "2026-08-15T03:49:51Z",
             "owner": "OpendTect",
             "repo": "OpendTect",
             "stars": 134
@@ -1418,7 +1418,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-11T10:21:48Z",
+            "last_commit": "2026-08-14T13:32:38Z",
             "owner": "equinor",
             "repo": "webviz-subsurface",
             "stars": 62
@@ -1487,7 +1487,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T05:29:28.438Z",
+    "last_updated": "2026-08-15T04:26:16.945Z",
     "original_repository": "softwareunderground/awesome-open-geoscience",
     "original_repository_sha": "7f4ec7e291a82cd8485a3dba141537ca38d3dc02",
     "enhanced_repository": "enhansome/enhansome-open-geoscience",

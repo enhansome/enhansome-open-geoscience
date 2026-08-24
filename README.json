@@ -15,7 +15,7 @@
             "last_commit": "2026-07-21T09:10:54Z",
             "owner": "sshuair",
             "repo": "awesome-gis",
-            "stars": 5493
+            "stars": 5496
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2025-11-12T14:32:13Z",
             "owner": "pangeo-data",
             "repo": "awesome-open-climate-science",
-            "stars": 595
+            "stars": 596
           }
         },
         {
@@ -599,7 +599,7 @@
                 "last_commit": "2026-08-13T14:29:00Z",
                 "owner": "gempy-project",
                 "repo": "gempy",
-                "stars": 1334
+                "stars": 1335
               }
             },
             {
@@ -614,7 +614,7 @@
                 "last_commit": "2026-08-22T19:49:54Z",
                 "owner": "simpeg",
                 "repo": "simpeg",
-                "stars": 669
+                "stars": 671
               }
             },
             {
@@ -626,7 +626,7 @@
                 "archived": false,
                 "id": 19599383,
                 "language": "Python",
-                "last_commit": "2026-08-22T15:12:03Z",
+                "last_commit": "2026-08-24T03:56:34Z",
                 "owner": "landlab",
                 "repo": "landlab",
                 "stars": 436
@@ -641,7 +641,7 @@
                 "archived": false,
                 "id": 181411760,
                 "language": "Python",
-                "last_commit": "2026-08-17T08:05:02Z",
+                "last_commit": "2026-08-24T04:32:53Z",
                 "owner": "Loop3D",
                 "repo": "LoopStructural",
                 "stars": 283
@@ -1256,7 +1256,7 @@
                 "last_commit": "2026-08-05T18:27:14Z",
                 "owner": "ondrolexa",
                 "repo": "apsg",
-                "stars": 126
+                "stars": 127
               }
             },
             {
@@ -1335,10 +1335,10 @@
                 "archived": false,
                 "id": 92974124,
                 "language": "Python",
-                "last_commit": "2026-08-22T17:44:00Z",
+                "last_commit": "2026-08-23T21:09:09Z",
                 "owner": "pyvista",
                 "repo": "pyvista",
-                "stars": 3779
+                "stars": 3782
               }
             },
             {
@@ -1477,7 +1477,7 @@
                 "archived": false,
                 "id": 187247007,
                 "language": "C",
-                "last_commit": "2026-08-22T17:34:59Z",
+                "last_commit": "2026-08-23T11:16:10Z",
                 "owner": "OSGeo",
                 "repo": "grass",
                 "stars": 1154
@@ -1590,7 +1590,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T04:33:11.999Z",
+    "last_updated": "2026-08-24T04:40:57.000Z",
     "original_repository": "softwareunderground/awesome-open-geoscience",
     "original_repository_id": 107413465,
     "original_repository_sha": "7f4ec7e291a82cd8485a3dba141537ca38d3dc02",

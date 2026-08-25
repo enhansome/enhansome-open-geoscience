@@ -626,7 +626,7 @@
                 "archived": false,
                 "id": 19599383,
                 "language": "Python",
-                "last_commit": "2026-08-25T04:34:18Z",
+                "last_commit": "2026-08-25T04:36:10Z",
                 "owner": "landlab",
                 "repo": "landlab",
                 "stars": 436
@@ -1634,7 +1634,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T04:35:42.949Z",
+    "last_updated": "2026-08-25T06:01:16.241Z",
     "original_repository": "softwareunderground/awesome-open-geoscience",
     "original_repository_id": 107413465,
     "original_repository_sha": "7f4ec7e291a82cd8485a3dba141537ca38d3dc02",

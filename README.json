@@ -15,7 +15,7 @@
             "last_commit": "2026-07-21T09:10:54Z",
             "owner": "sshuair",
             "repo": "awesome-gis",
-            "stars": 5497
+            "stars": 5498
           }
         },
         {
@@ -140,7 +140,7 @@
                 "archived": false,
                 "id": 5731348,
                 "language": "Python",
-                "last_commit": "2026-08-10T21:22:44Z",
+                "last_commit": "2026-08-24T21:18:53Z",
                 "owner": "obspy",
                 "repo": "obspy",
                 "stars": 1329
@@ -170,7 +170,7 @@
                 "archived": false,
                 "id": 56300322,
                 "language": "Python",
-                "last_commit": "2026-08-24T12:05:42Z",
+                "last_commit": "2026-08-24T14:50:04Z",
                 "owner": "pastas",
                 "repo": "pastas",
                 "stars": 450
@@ -626,7 +626,7 @@
                 "archived": false,
                 "id": 19599383,
                 "language": "Python",
-                "last_commit": "2026-08-24T05:53:11Z",
+                "last_commit": "2026-08-25T04:34:18Z",
                 "owner": "landlab",
                 "repo": "landlab",
                 "stars": 436
@@ -1357,10 +1357,10 @@
                 "archived": false,
                 "id": 92974124,
                 "language": "Python",
-                "last_commit": "2026-08-24T09:48:17Z",
+                "last_commit": "2026-08-25T03:34:42Z",
                 "owner": "pyvista",
                 "repo": "pyvista",
-                "stars": 3782
+                "stars": 3783
               }
             },
             {
@@ -1432,7 +1432,7 @@
                 "archived": false,
                 "id": 366434296,
                 "language": "Python",
-                "last_commit": "2026-08-23T01:54:41Z",
+                "last_commit": "2026-08-24T17:22:26Z",
                 "owner": "bjlittle",
                 "repo": "geovista",
                 "stars": 230
@@ -1499,7 +1499,7 @@
                 "archived": false,
                 "id": 187247007,
                 "language": "C",
-                "last_commit": "2026-08-23T11:16:10Z",
+                "last_commit": "2026-08-25T03:54:55Z",
                 "owner": "OSGeo",
                 "repo": "grass",
                 "stars": 1154
@@ -1529,7 +1529,7 @@
                 "archived": false,
                 "id": 33455452,
                 "language": "C++",
-                "last_commit": "2026-08-23T01:17:56Z",
+                "last_commit": "2026-08-24T15:26:54Z",
                 "owner": "OpendTect",
                 "repo": "OpendTect",
                 "stars": 136
@@ -1634,7 +1634,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:07:43.208Z",
+    "last_updated": "2026-08-25T04:35:42.949Z",
     "original_repository": "softwareunderground/awesome-open-geoscience",
     "original_repository_id": 107413465,
     "original_repository_sha": "7f4ec7e291a82cd8485a3dba141537ca38d3dc02",

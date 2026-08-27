@@ -140,7 +140,7 @@
                 "archived": false,
                 "id": 5731348,
                 "language": "Python",
-                "last_commit": "2026-08-27T11:52:37Z",
+                "last_commit": "2026-08-27T13:58:45Z",
                 "owner": "obspy",
                 "repo": "obspy",
                 "stars": 1330
@@ -380,7 +380,7 @@
                 "archived": false,
                 "id": 1096763373,
                 "language": "Julia",
-                "last_commit": "2026-07-29T17:23:41Z",
+                "last_commit": "2026-08-27T13:42:39Z",
                 "owner": "JuliaEarth",
                 "repo": "SeisKit.jl",
                 "stars": 4
@@ -626,7 +626,7 @@
                 "archived": false,
                 "id": 19599383,
                 "language": "Python",
-                "last_commit": "2026-08-27T02:20:15Z",
+                "last_commit": "2026-08-27T14:27:29Z",
                 "owner": "landlab",
                 "repo": "landlab",
                 "stars": 437
@@ -798,7 +798,7 @@
                 "archived": false,
                 "id": 4335832,
                 "language": "C++",
-                "last_commit": "2026-08-27T11:50:09Z",
+                "last_commit": "2026-08-27T13:46:12Z",
                 "owner": "OPM",
                 "repo": "ResInsight",
                 "stars": 216
@@ -813,7 +813,7 @@
                 "archived": false,
                 "id": 85172345,
                 "language": "C++",
-                "last_commit": "2026-08-27T11:41:41Z",
+                "last_commit": "2026-08-27T12:16:49Z",
                 "owner": "equinor",
                 "repo": "resdata",
                 "stars": 128
@@ -1278,7 +1278,7 @@
                 "last_commit": "2026-08-05T18:27:14Z",
                 "owner": "ondrolexa",
                 "repo": "apsg",
-                "stars": 128
+                "stars": 129
               }
             },
             {
@@ -1634,7 +1634,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:53:35.911Z",
+    "last_updated": "2026-08-27T14:58:00.779Z",
     "original_repository_info": {
       "archived": false,
       "id": 107413465,
@@ -1642,7 +1642,7 @@
       "last_commit": "2026-05-26T11:55:08Z",
       "owner": "softwareunderground",
       "repo": "awesome-open-geoscience",
-      "stars": 1823
+      "stars": 1824
     },
     "original_repository_sha": "7f4ec7e291a82cd8485a3dba141537ca38d3dc02",
     "enhanced_repository": "enhansome/enhansome-open-geoscience",

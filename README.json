@@ -16,10 +16,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-07-21T09:10:54Z",
-            "open_issues": 70,
+            "open_issues": 71,
             "owner": "sshuair",
             "repo": "awesome-gis",
-            "stars": 5524,
+            "stars": 5527,
             "topics": [
               "awesome",
               "geo",
@@ -322,8 +322,8 @@
                 "id": 56300322,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-10T08:25:54Z",
-                "open_issues": 40,
+                "last_commit": "2026-09-17T08:48:49Z",
+                "open_issues": 42,
                 "owner": "pastas",
                 "repo": "pastas",
                 "stars": 454,
@@ -354,7 +354,7 @@
                 "open_issues": 114,
                 "owner": "JohnWStockwellJr",
                 "repo": "SeisUnix",
-                "stars": 317,
+                "stars": 318,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:53:18.620Z"
@@ -375,7 +375,7 @@
                 "open_issues": 34,
                 "owner": "agilescientific",
                 "repo": "bruges",
-                "stars": 314,
+                "stars": 315,
                 "topics": [
                   "geophysics",
                   "petrophysics",
@@ -533,8 +533,8 @@
                 "id": 526687085,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-15T20:33:25Z",
-                "open_issues": 48,
+                "last_commit": "2026-09-16T16:31:47Z",
+                "open_issues": 45,
                 "owner": "TGSAI",
                 "repo": "mdio-python",
                 "stars": 42,
@@ -689,7 +689,7 @@
                 "open_issues": 30,
                 "owner": "NSGeophysics",
                 "repo": "GPRPy",
-                "stars": 287,
+                "stars": 288,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:53:18.620Z"
@@ -954,7 +954,7 @@
                 "open_issues": 9,
                 "owner": "Zabamund",
                 "repo": "wellpathpy",
-                "stars": 84,
+                "stars": 85,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:53:18.620Z"
@@ -1120,8 +1120,8 @@
                 "id": 19599383,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-16T03:53:50Z",
-                "open_issues": 471,
+                "last_commit": "2026-09-17T07:43:04Z",
+                "open_issues": 472,
                 "owner": "landlab",
                 "repo": "landlab",
                 "stars": 441,
@@ -1145,7 +1145,7 @@
                 "open_issues": 11,
                 "owner": "Loop3D",
                 "repo": "LoopStructural",
-                "stars": 287,
+                "stars": 288,
                 "topics": [
                   "3d-modelling",
                   "faults",
@@ -1429,8 +1429,8 @@
                 "id": 4335832,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-16T08:53:34Z",
-                "open_issues": 1099,
+                "last_commit": "2026-09-16T18:01:22Z",
+                "open_issues": 1102,
                 "owner": "OPM",
                 "repo": "ResInsight",
                 "stars": 218,
@@ -1651,7 +1651,7 @@
                 "open_issues": 28,
                 "owner": "mmaelicke",
                 "repo": "scikit-gstat",
-                "stars": 249,
+                "stars": 250,
                 "topics": [
                   "geostatistics",
                   "scikit",
@@ -1837,7 +1837,7 @@
                 "open_issues": 39,
                 "owner": "OpenGeoscience",
                 "repo": "geonotebook",
-                "stars": 1088,
+                "stars": 1089,
                 "topics": [
                   "analysis",
                   "jupyter",
@@ -2067,7 +2067,7 @@
                 "open_issues": 16,
                 "owner": "morganjwilliams",
                 "repo": "pyrolite",
-                "stars": 172,
+                "stars": 173,
                 "topics": [
                   "chemistry",
                   "data-science",
@@ -2096,7 +2096,7 @@
                 "open_issues": 4,
                 "owner": "PennyWieser",
                 "repo": "Thermobar",
-                "stars": 64,
+                "stars": 65,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:53:18.620Z"
@@ -2264,7 +2264,7 @@
                 "open_issues": 1,
                 "owner": "ondrolexa",
                 "repo": "apsg",
-                "stars": 129,
+                "stars": 130,
                 "topics": [
                   "python",
                   "structural-geology"
@@ -2385,11 +2385,11 @@
                 "id": 92974124,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-16T07:57:31Z",
-                "open_issues": 549,
+                "last_commit": "2026-09-17T08:39:22Z",
+                "open_issues": 550,
                 "owner": "pyvista",
                 "repo": "pyvista",
-                "stars": 3815,
+                "stars": 3816,
                 "topics": [
                   "3d",
                   "finite-element-analysis",
@@ -2543,7 +2543,7 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-09-16T07:19:23Z",
-                "open_issues": 35,
+                "open_issues": 36,
                 "owner": "bjlittle",
                 "repo": "geovista",
                 "stars": 232,
@@ -2645,11 +2645,11 @@
                 "id": 187247007,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-15T06:50:41Z",
-                "open_issues": 699,
+                "last_commit": "2026-09-17T08:49:56Z",
+                "open_issues": 695,
                 "owner": "OSGeo",
                 "repo": "grass",
-                "stars": 1165,
+                "stars": 1166,
                 "topics": [
                   "arrays",
                   "data-science",
@@ -2713,7 +2713,7 @@
                 "id": 33455452,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-16T07:56:17Z",
+                "last_commit": "2026-09-16T21:31:18Z",
                 "open_issues": 3,
                 "owner": "OpendTect",
                 "repo": "OpendTect",
@@ -2735,7 +2735,7 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-08-26T12:59:53Z",
-                "open_issues": 234,
+                "open_issues": 235,
                 "owner": "equinor",
                 "repo": "webviz-subsurface",
                 "stars": 62,
@@ -2881,7 +2881,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T09:02:49.238Z",
+    "last_updated": "2026-09-17T09:10:41.800Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated from repositories that make our lives as geoscientists, hackers and data wranglers easier or just more awesome",

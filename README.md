@@ -2,7 +2,7 @@
 
 > Geoscience is [awesome](awesome.md).
 
-[![Awesome](https://raw.githubusercontent.com/softwareunderground/awesome-open-geoscience/master/media/icon/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 507,644 | 🐛 106 | 📅 2026-09-02 [![.github/workflows/link\_checker.yml](https://github.com/softwareunderground/awesome-open-geoscience/actions/workflows/link_checker.yml/badge.svg)](https://github.com/softwareunderground/awesome-open-geoscience/actions/workflows/link_checker.yml) ⭐ 1,843 | 🐛 13 | 📅 2026-05-26 [![Contributions](https://img.shields.io/github/issues-pr-closed-raw/softwareunderground/awesome-open-geoscience.svg?label=contributions)](https://github.com/softwareunderground/awesome-open-geoscience/pulls) ⭐ 1,843 | 🐛 13 | 📅 2026-05-26 [![Commits](https://img.shields.io/github/last-commit/softwareunderground/awesome-open-geoscience.svg?label=last%20contribution)](https://github.com/softwareunderground/awesome-open-geoscience/commits/main) ⭐ 1,843 | 🐛 13 | 📅 2026-05-26 [![Chat on slack](https://img.shields.io/badge/slack-join-ff69b4.svg)](https://swung.slack.com/join/shared_invite/enQtNTczNjM4ODMxODMwLTQ3Yjk3MjFmOTJkYzUyZDU3OGI3ZmJhMzIyNzQxYjcyZDM5MWU4OTVmNTBiOTM4Zjg1ZDViOGM3NmQ4OTgzOTk) [![License](https://img.shields.io/github/license/softwareunderground/awesome-open-geoscience.svg)](https://github.com/softwareunderground/awesome-open-geoscience/blob/master/LICENSE) ⭐ 1,843 | 🐛 13 | 📅 2026-05-26
+[![Awesome](https://raw.githubusercontent.com/softwareunderground/awesome-open-geoscience/master/media/icon/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 508,000 | 🐛 106 | 📅 2026-09-02 [![.github/workflows/link\_checker.yml](https://github.com/softwareunderground/awesome-open-geoscience/actions/workflows/link_checker.yml/badge.svg)](https://github.com/softwareunderground/awesome-open-geoscience/actions/workflows/link_checker.yml) ⭐ 1,843 | 🐛 13 | 📅 2026-05-26 [![Contributions](https://img.shields.io/github/issues-pr-closed-raw/softwareunderground/awesome-open-geoscience.svg?label=contributions)](https://github.com/softwareunderground/awesome-open-geoscience/pulls) ⭐ 1,843 | 🐛 13 | 📅 2026-05-26 [![Commits](https://img.shields.io/github/last-commit/softwareunderground/awesome-open-geoscience.svg?label=last%20contribution)](https://github.com/softwareunderground/awesome-open-geoscience/commits/main) ⭐ 1,843 | 🐛 13 | 📅 2026-05-26 [![Chat on slack](https://img.shields.io/badge/slack-join-ff69b4.svg)](https://swung.slack.com/join/shared_invite/enQtNTczNjM4ODMxODMwLTQ3Yjk3MjFmOTJkYzUyZDU3OGI3ZmJhMzIyNzQxYjcyZDM5MWU4OTVmNTBiOTM4Zjg1ZDViOGM3NmQ4OTgzOTk) [![License](https://img.shields.io/github/license/softwareunderground/awesome-open-geoscience.svg)](https://github.com/softwareunderground/awesome-open-geoscience/blob/master/LICENSE) ⭐ 1,843 | 🐛 13 | 📅 2026-05-26
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8354180.svg)](https://zenodo.org/records/8354180)
 
 Open geoscience is even more awesome, so we made a list. This list is curated from repositories that make our lives as geoscientists, hackers and data wranglers easier or just more awesome. In accordance with the awesome manifesto, we add awesome repositories. We are open to [contributions](contributing.md) of course, this is a community effort after all.
@@ -35,7 +35,7 @@ If you are interested in being a maintainer of this repository, leave the [maint
 
 ## Related Awesome
 
-* [Awesome GIS](https://github.com/sshuair/awesome-gis) ⭐ 5,528 | 🐛 72 | 📅 2026-07-21 - ![Awesome](media/icon/awesome.png) Awesome list related to all things Geographic Information Systems (GIS).
+* [Awesome GIS](https://github.com/sshuair/awesome-gis) ⭐ 5,527 | 🐛 73 | 📅 2026-07-21 - ![Awesome](media/icon/awesome.png) Awesome list related to all things Geographic Information Systems (GIS).
 * [Awesome Open Climate Science](https://github.com/pangeo-data/awesome-open-climate-science) ⭐ 598 | 🐛 17 | 📅 2025-11-12 – ![Awesome](media/icon/awesome.png) Awesome list for atmospheric, ocean, climate, and hydrologic science.
 * [Awesome Earth Artificial Intelligence](https://github.com/ESIPFed/Awesome-Earth-Artificial-Intelligence) ⭐ 251 | 🐛 0 | 📅 2026-08-29 – ![Awesome](media/icon/awesome.png) Awesome list for artificial intelligence use cases in Earth Science maintinaed by ESIP (<a href="https://wiki.esipfed.org/Main_Page">Earth Science Information Partners</a>, which is a earth science informatics community) Machine Learning Cluster.
 * [Awesome-Spatial](https://github.com/RoboDonut/awesome-spatial) ⭐ 223 | 🐛 101 | 📅 2018-01-04 – ![Awesome](media/icon/awesome.png) Awesome list for geospatial, not specific to geoscience but significant overlap.
@@ -57,7 +57,7 @@ Awesome software projects sub-categorized by focus.
 
 ### Seismic and Seismology
 
-* [ObsPy](https://github.com/obspy/obspy/wiki) ⭐ 1,333 | 🐛 309 | 🌐 Python | 📅 2026-09-18 – ![Python](media/icon/python.png) Framework for reading, writing and processing seismic and seismological data.
+* [ObsPy](https://github.com/obspy/obspy/wiki) ⭐ 1,333 | 🐛 310 | 🌐 Python | 📅 2026-09-18 – ![Python](media/icon/python.png) Framework for reading, writing and processing seismic and seismological data.
 * [Segyio](https://github.com/equinor/segyio) ⭐ 582 | 🐛 42 | 🌐 Python | 📅 2025-12-03 – ![Python](media/icon/python.png) / ![matlab](media/icon/matlab.png) Fast library for seismic SEGY files.
 * [Pastas](https://github.com/pastas/pastas) ⭐ 454 | 🐛 44 | 🌐 Python | 📅 2026-09-17 – ![Python](media/icon/python.png) Open-source Python framework for the analysis of groundwater time series.
 * [Seismic Un\*x](https://github.com/JohnWStockwellJr/SeisUnix) ⭐ 319 | 🐛 114 | 🌐 AGS Script | 📅 2024-09-07 – ![C](media/icon/c.png) Seismic data processing suite.
@@ -69,7 +69,7 @@ Awesome software projects sub-categorized by focus.
 * [rsudp](https://github.com/raspishake/rsudp) ⭐ 72 | 🐛 6 | 🌐 Python | 📅 2025-04-25 – ![Python](media/icon/python.png) Continuous ObsPy-based visual display, sudden motion monitoring, and historical replay of Raspberry Shake data.
 * [OpenSeaSeis](https://github.com/JohnWStockwellJr/OpenSeaSeis) ⭐ 52 | 🐛 6 | 🌐 C++ | 📅 2020-02-18 – ![C++](media/icon/cplusplus.png) Seismic workflow generator and seismic viewer.
 * [MDIO](https://mdio.dev) – ![Python](media/icon/python.png) Open source chunked and compressed cloud storage for seismic data based on Zarr with fast seismic ingestion and export tools – [Docs](https://mdio-python.readthedocs.io), [Source](https://github.com/TGSAI/mdio-python) ⭐ 42 | 🐛 27 | 🌐 Python | 📅 2026-09-18.
-* [OpendTect-Plugins](https://github.com/waynegm/OpendTect-Plugins) ⭐ 40 | 🐛 4 | 🌐 C++ | 📅 2026-09-13 – ![C++](media/icon/cplusplus.png) open source plugins for the [OpendTect](#platforms) seismic interpretation platform. See [the docs](http://waynegm.github.io/OpendTect-Plugin-Docs) for more information.
+* [OpendTect-Plugins](https://github.com/waynegm/OpendTect-Plugins) ⭐ 40 | 🐛 4 | 🌐 C++ | 📅 2026-09-20 – ![C++](media/icon/cplusplus.png) open source plugins for the [OpendTect](#platforms) seismic interpretation platform. See [the docs](http://waynegm.github.io/OpendTect-Plugin-Docs) for more information.
 * [Auralib](https://github.com/whamlyn/auralib) ⭐ 39 | 🐛 4 | 🌐 Python | 📅 2022-09-16 – ![Python](media/icon/python.png) / Python package to support investigation of geoscience problems including geophysics, rock physics, petrophysics, and data read/write in common formats.
 * [pyZGY](https://github.com/equinor/pyzgy) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2026-02-19 – ![Python](media/icon/python.png) Convenience wrapper around Schlumberger's OpenZGY Python package which enables reading of ZGY files with a syntax familiar to users of segyio.
 * [pyVDS](https://github.com/equinor/pyvds) ⭐ 7 | 🐛 2 | 🌐 Python | 📅 2024-07-10 – ![Python](media/icon/python.png) Convenience wrapper around Bluware's OpenVDS+ Python bindings which enables reading of VDS files with a syntax familiar to users of segyio.
@@ -79,7 +79,7 @@ Awesome software projects sub-categorized by focus.
 
 ### Ground-penetrating radar
 
-* [GPRPy](https://github.com/NSGeophysics/GPRPy) ⭐ 288 | 🐛 30 | 🌐 Python | 📅 2026-08-28 – ![Python](media/icon/python.png) Multi-format, GUI-based GPR processing and visualization.
+* [GPRPy](https://github.com/NSGeophysics/GPRPy) ⭐ 289 | 🐛 30 | 🌐 Python | 📅 2026-08-28 – ![Python](media/icon/python.png) Multi-format, GUI-based GPR processing and visualization.
 * [RGPR](https://github.com/emanuelhuber/RGPR) ⭐ 227 | 🐛 1 | 🌐 R | 📅 2026-09-03 – ![R](media/icon/r.png) Reads, exports, processes, and plots ground-penetrating radar data.
 * [readgssi](https://github.com/iannesbitt/readgssi) ⭐ 87 | 🐛 14 | 🌐 Python | 📅 2025-07-11 – ![Python](media/icon/python.png) Fast command line or console-based visualization, filtering, and translation of GSSI radar data.
 * [RAGU](https://github.com/btobers/RAGU) ⭐ 30 | 🐛 2 | 🌐 Python | 📅 2026-07-27 – ![Python](media/icon/python.png) Radar interpretation GUI compatible with multiple radar datasets.
@@ -100,7 +100,7 @@ Awesome software projects sub-categorized by focus.
 
 * [GemPy](https://github.com/cgre-aachen/gempy) ⭐ 1,343 | 🐛 9 | 🌐 Python | 📅 2026-09-18 – ![Python](media/icon/python.png) 3-D structural geological modelling software with implicit modelling and support for stochastic modelling.
 * [SimPEG](https://github.com/simpeg/simpeg) ⭐ 675 | 🐛 200 | 🌐 Python | 📅 2026-09-19 – ![Python](media/icon/python.png) Simulation and parameter estimation in geophysics.
-* [Landlab](https://github.com/landlab/landlab) ⭐ 441 | 🐛 469 | 🌐 Python | 📅 2026-09-19 – ![Python](media/icon/python.png) Simulate surface processes using a large suite of existing interoperable process components (landscape evolution, sediment dynamics, surface hydrology, ecohydrology), exensible by own modules.
+* [Landlab](https://github.com/landlab/landlab) ⭐ 441 | 🐛 468 | 🌐 Python | 📅 2026-09-19 – ![Python](media/icon/python.png) Simulate surface processes using a large suite of existing interoperable process components (landscape evolution, sediment dynamics, surface hydrology, ecohydrology), exensible by own modules.
 * [LoopStructural](https://github.com/Loop3D/LoopStructural) ⭐ 289 | 🐛 13 | 🌐 Python | 📅 2026-09-18 – ![Python](media/icon/python.png) an open-source 3D structural geological modelling library.
 * [disba](https://github.com/keurfonluu/disba) ⭐ 193 | 🐛 2 | 🌐 Python | 📅 2024-12-19 – ![Python](media/icon/python.png) Numba-accelerated computation of surface wave dispersion.
 * [OccamyPy](https://github.com/fpicetti/occamypy) ⭐ 65 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2025-12-04 – ![Python](media/icon/python.png) an object-oriented optimization framework for small- and large-scale problems.
@@ -199,7 +199,7 @@ Awesome software projects sub-categorized by focus.
 
 ### Visualization
 
-* [PyVista](https://github.com/pyvista/pyvista) ⭐ 3,817 | 🐛 555 | 🌐 Python | 📅 2026-09-19 – ![Python](media/icon/python.png) 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK).
+* [PyVista](https://github.com/pyvista/pyvista) ⭐ 3,817 | 🐛 525 | 🌐 Python | 📅 2026-09-20 – ![Python](media/icon/python.png) 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK).
 * [ipyleaflet](https://github.com/jupyter-widgets/ipyleaflet) ⭐ 1,541 | 🐛 302 | 🌐 TypeScript | 📅 2026-05-07 – ![Python](media/icon/python.png) 2D interactive maps and GIS visualization in the Jupyter Notebook.
 * [Colorcet](https://github.com/holoviz/colorcet) ⭐ 750 | 🐛 3 | 🌐 Python | 📅 2026-05-13  – ![Python](media/icon/python.png) Perceptual colormaps.
 * [localtileserver](https://github.com/banesullivan/localtileserver) ⭐ 350 | 🐛 1 | 🌐 Python | 📅 2026-09-07 – ![Python](media/icon/python.png) A Python package for serving tiles from large raster files in the Slippy Maps standard (i.e., `/zoom/x/y.png`) for visualization in Jupyter with `ipyleaflet` or `folium`.
@@ -212,9 +212,9 @@ Awesome software projects sub-categorized by focus.
 
 ### Platforms
 
-* [GRASS-GIS](https://grass.osgeo.org) – GIS platform for vector and raster geospatial data management, geoprocessing, spatial modelling and visualization, ![C](media/icon/c.png) ![C++](media/icon/cplusplus.png) source code available at [github](https://github.com/OSGeo/grass) ⭐ 1,165 | 🐛 694 | 🌐 C | 📅 2026-09-18.
+* [GRASS-GIS](https://grass.osgeo.org) – GIS platform for vector and raster geospatial data management, geoprocessing, spatial modelling and visualization, ![C](media/icon/c.png) ![C++](media/icon/cplusplus.png) source code available at [github](https://github.com/OSGeo/grass) ⭐ 1,165 | 🐛 695 | 🌐 C | 📅 2026-09-19.
 * [OpenGeode](https://github.com/Geode-solutions/OpenGeode) ⭐ 179 | 🐛 22 | 🌐 C++ | 📅 2026-09-18 – ![C++](media/icon/cplusplus.png) ![Python](media/icon/python.png) Representation and manipulation of geological models.
-* [OpendTect](https://dgbes.com/software/opendtect) – Seismic interpretation package, ![C++](media/icon/cplusplus.png) source code available at [github](https://github.com/OpendTect/OpendTect) ⭐ 137 | 🐛 3 | 🌐 C++ | 📅 2026-09-18.
+* [OpendTect](https://dgbes.com/software/opendtect) – Seismic interpretation package, ![C++](media/icon/cplusplus.png) source code available at [github](https://github.com/OpendTect/OpendTect) ⭐ 137 | 🐛 3 | 🌐 C++ | 📅 2026-09-20.
 * [Webviz-subsurface](https://github.com/equinor/webviz-subsurface) ⭐ 62 | 🐛 232 | 🌐 Python | 📅 2026-09-18 – ![Python](media/icon/python.png) Webviz-subsurface contains subsurface specific standard webviz containers, which are used as plugins in webviz-config.
 * [Webviz](https://github.com/equinor/webviz-config) ⭐ 56 | 🐛 107 | 🌐 Python | 📅 2026-09-01 – ![Python](media/icon/python.png) Webviz is a wrapper on top of Dash from Plotly which encourages making reusable data visualisation components and dashboards.
 * [Pangeo](https://pangeo.io) – ![Python](media/icon/python.png) A community platform for Big Data geoscience built on top of the open source scientific python ecosystem.
@@ -293,4 +293,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._

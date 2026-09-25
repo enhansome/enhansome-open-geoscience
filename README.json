@@ -19,7 +19,7 @@
             "open_issues": 78,
             "owner": "sshuair",
             "repo": "awesome-gis",
-            "stars": 5536,
+            "stars": 5537,
             "topics": [
               "awesome",
               "geo",
@@ -264,7 +264,7 @@
                 "open_issues": 312,
                 "owner": "obspy",
                 "repo": "obspy",
-                "stars": 1335,
+                "stars": 1336,
                 "topics": [
                   "data-center",
                   "earthquakes",
@@ -297,7 +297,7 @@
                 "open_issues": 43,
                 "owner": "equinor",
                 "repo": "segyio",
-                "stars": 582,
+                "stars": 583,
                 "topics": [
                   "c",
                   "fast",
@@ -375,7 +375,7 @@
                 "open_issues": 34,
                 "owner": "agilescientific",
                 "repo": "bruges",
-                "stars": 315,
+                "stars": 316,
                 "topics": [
                   "geophysics",
                   "petrophysics",
@@ -413,6 +413,32 @@
             },
             {
               "node_type": "item",
+              "title": "RedPy",
+              "description": "Auto-clustering for seismic events.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Repeating Earthquake Detector (Python)",
+                "homepage": null,
+                "id": 20038635,
+                "language": "Python",
+                "license": "GPL-3.0",
+                "last_commit": "2023-12-14T22:54:03Z",
+                "open_issues": 6,
+                "owner": "ahotovec",
+                "repo": "REDPy",
+                "stars": 90,
+                "topics": [
+                  "python",
+                  "repeating-earthquakes",
+                  "seismology",
+                  "volcanology"
+                ]
+              },
+              "first_seen": "2026-08-28T15:53:18.620Z"
+            },
+            {
+              "node_type": "item",
               "title": "SeisComp",
               "description": "Seismic observatory automation toolkit. Autodetection, storage, sharing, processing data and more.",
               "children": [],
@@ -429,32 +455,6 @@
                 "repo": "seiscomp",
                 "stars": 90,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T15:53:18.620Z"
-            },
-            {
-              "node_type": "item",
-              "title": "RedPy",
-              "description": "Auto-clustering for seismic events.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Repeating Earthquake Detector (Python)",
-                "homepage": null,
-                "id": 20038635,
-                "language": "Python",
-                "license": "GPL-3.0",
-                "last_commit": "2023-12-14T22:54:03Z",
-                "open_issues": 6,
-                "owner": "ahotovec",
-                "repo": "REDPy",
-                "stars": 89,
-                "topics": [
-                  "python",
-                  "repeating-earthquakes",
-                  "seismology",
-                  "volcanology"
-                ]
               },
               "first_seen": "2026-08-28T15:53:18.620Z"
             },
@@ -612,7 +612,7 @@
                 "open_issues": 0,
                 "owner": "equinor",
                 "repo": "pyzgy",
-                "stars": 14,
+                "stars": 15,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:53:18.620Z"
@@ -710,7 +710,7 @@
                 "open_issues": 1,
                 "owner": "emanuelhuber",
                 "repo": "RGPR",
-                "stars": 227,
+                "stars": 228,
                 "topics": [
                   "dsp",
                   "geophysics",
@@ -776,7 +776,7 @@
                 "open_issues": 2,
                 "owner": "btobers",
                 "repo": "RAGU",
-                "stars": 30,
+                "stars": 31,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:53:18.620Z"
@@ -1046,7 +1046,7 @@
                 "open_issues": 9,
                 "owner": "gempy-project",
                 "repo": "gempy",
-                "stars": 1342,
+                "stars": 1343,
                 "topics": [
                   "bayesian",
                   "complex-geological-models",
@@ -1078,8 +1078,8 @@
                 "id": 14727320,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-24T00:47:28Z",
-                "open_issues": 200,
+                "last_commit": "2026-09-24T23:59:25Z",
+                "open_issues": 198,
                 "owner": "simpeg",
                 "repo": "simpeg",
                 "stars": 677,
@@ -1124,7 +1124,7 @@
                 "open_issues": 469,
                 "owner": "landlab",
                 "repo": "landlab",
-                "stars": 443,
+                "stars": 444,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:53:18.620Z"
@@ -1177,7 +1177,7 @@
                 "open_issues": 2,
                 "owner": "keurfonluu",
                 "repo": "disba",
-                "stars": 193,
+                "stars": 194,
                 "topics": [
                   "dispersion",
                   "geosciences",
@@ -1429,8 +1429,8 @@
                 "id": 4335832,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-24T06:17:17Z",
-                "open_issues": 1099,
+                "last_commit": "2026-09-25T08:34:17Z",
+                "open_issues": 1097,
                 "owner": "OPM",
                 "repo": "ResInsight",
                 "stars": 217,
@@ -1461,7 +1461,7 @@
                 "id": 85172345,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-22T12:39:04Z",
+                "last_commit": "2026-09-24T10:02:44Z",
                 "open_issues": 37,
                 "owner": "equinor",
                 "repo": "resdata",
@@ -1827,7 +1827,7 @@
               "description": "Jupyter notebook extension for geospatial visualization and analysis developed by NASA.",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": "A Jupyter notebook extension for geospatial visualization and analysis",
                 "homepage": null,
                 "id": 64249762,
@@ -1835,19 +1835,10 @@
                 "license": "Apache-2.0",
                 "last_commit": "2019-01-21T15:53:04Z",
                 "open_issues": 39,
-                "owner": "OpenGeoscience",
+                "owner": "kitware-data-solutions",
                 "repo": "geonotebook",
                 "stars": 1089,
-                "topics": [
-                  "analysis",
-                  "jupyter",
-                  "jupyter-notebook-extension",
-                  "mapnik",
-                  "notebook",
-                  "opengeoscience",
-                  "python",
-                  "tile-server"
-                ]
+                "topics": []
               },
               "first_seen": "2026-08-28T15:53:18.620Z"
             },
@@ -2096,7 +2087,7 @@
                 "open_issues": 4,
                 "owner": "PennyWieser",
                 "repo": "Thermobar",
-                "stars": 65,
+                "stars": 66,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:53:18.620Z"
@@ -2385,11 +2376,11 @@
                 "id": 92974124,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-24T08:39:18Z",
-                "open_issues": 521,
+                "last_commit": "2026-09-25T07:31:16Z",
+                "open_issues": 511,
                 "owner": "pyvista",
                 "repo": "pyvista",
-                "stars": 3821,
+                "stars": 3825,
                 "topics": [
                   "3d",
                   "finite-element-analysis",
@@ -2473,8 +2464,8 @@
                 "id": 429299380,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-07T16:53:32Z",
-                "open_issues": 1,
+                "last_commit": "2026-09-24T14:36:42Z",
+                "open_issues": 0,
                 "owner": "banesullivan",
                 "repo": "localtileserver",
                 "stars": 350,
@@ -2543,7 +2534,7 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-09-24T07:16:52Z",
-                "open_issues": 43,
+                "open_issues": 44,
                 "owner": "bjlittle",
                 "repo": "geovista",
                 "stars": 232,
@@ -2645,11 +2636,11 @@
                 "id": 187247007,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-23T22:27:37Z",
+                "last_commit": "2026-09-25T05:49:11Z",
                 "open_issues": 694,
                 "owner": "OSGeo",
                 "repo": "grass",
-                "stars": 1167,
+                "stars": 1168,
                 "topics": [
                   "arrays",
                   "data-science",
@@ -2713,11 +2704,11 @@
                 "id": 33455452,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-23T23:56:30Z",
+                "last_commit": "2026-09-25T08:19:21Z",
                 "open_issues": 3,
                 "owner": "OpendTect",
                 "repo": "OpendTect",
-                "stars": 138,
+                "stars": 139,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:53:18.620Z"
@@ -2852,8 +2843,8 @@
                 "id": 14438041,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-09T13:02:42Z",
-                "open_issues": 109,
+                "last_commit": "2026-09-25T00:05:41Z",
+                "open_issues": 110,
                 "owner": "NMGRL",
                 "repo": "pychron",
                 "stars": 29,
@@ -2881,7 +2872,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T08:58:52.763Z",
+    "last_updated": "2026-09-25T09:21:03.560Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated from repositories that make our lives as geoscientists, hackers and data wranglers easier or just more awesome",

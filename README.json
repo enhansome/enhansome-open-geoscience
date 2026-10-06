@@ -1429,7 +1429,7 @@
                 "id": 4335832,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-06T09:18:06Z",
+                "last_commit": "2026-10-06T10:26:32Z",
                 "open_issues": 839,
                 "owner": "OPM",
                 "repo": "ResInsight",
@@ -2533,8 +2533,8 @@
                 "id": 366434296,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-06T10:11:08Z",
-                "open_issues": 27,
+                "last_commit": "2026-10-06T11:01:01Z",
+                "open_issues": 26,
                 "owner": "bjlittle",
                 "repo": "geovista",
                 "stars": 233,
@@ -2872,7 +2872,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:12:59.221Z",
+    "last_updated": "2026-10-06T11:10:54.837Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated from repositories that make our lives as geoscientists, hackers and data wranglers easier or just more awesome",

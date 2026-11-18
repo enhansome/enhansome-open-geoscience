@@ -16,10 +16,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-07-21T09:10:54Z",
-            "open_issues": 139,
+            "open_issues": 140,
             "owner": "sshuair",
             "repo": "awesome-gis",
-            "stars": 5626,
+            "stars": 5630,
             "topics": [
               "awesome",
               "geo",
@@ -128,7 +128,7 @@
             "open_issues": 1,
             "owner": "aradfarahani",
             "repo": "awesome-geophysics",
-            "stars": 139,
+            "stars": 140,
             "topics": [
               "awesome",
               "awesome-list",
@@ -166,7 +166,7 @@
             "open_issues": 0,
             "owner": "stark1tty",
             "repo": "awesome-historical-maps",
-            "stars": 122,
+            "stars": 123,
             "topics": [
               "archaeology",
               "awesome",
@@ -239,6 +239,48 @@
             "topics": []
           },
           "first_seen": "2026-08-28T15:53:18.620Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Mineral Exploration",
+          "description": "Awesome list of open-source software and open data for mineral exploration, sorted by method.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A curated list of open-source software for mineral exploration: geophysics, geological modelling, drillholes, geostatistics and prospectivity mapping.",
+            "homepage": "https://xplorahub.com",
+            "id": 1447312576,
+            "language": null,
+            "license": "CC0-1.0",
+            "last_commit": "2026-11-18T08:06:25Z",
+            "open_issues": 0,
+            "owner": "XploraHub",
+            "repo": "awesome-mineral-exploration",
+            "stars": 44,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "cheatsheet",
+              "exploration-geophysics",
+              "geochemistry",
+              "geology",
+              "geophysics",
+              "geoscience",
+              "geospatial",
+              "geostatistics",
+              "hyperspectral",
+              "machine-learning",
+              "mineral-exploration",
+              "mineral-prospectivity",
+              "mining",
+              "mining-technology",
+              "open-source",
+              "prospectivity-mapping",
+              "python",
+              "remote-sensing"
+            ]
+          },
+          "first_seen": "2026-11-18T12:37:22.961Z"
         }
       ],
       "title": "Related Awesome"
@@ -260,8 +302,8 @@
                 "id": 5731348,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-13T08:48:33Z",
-                "open_issues": 330,
+                "last_commit": "2026-11-17T20:06:06Z",
+                "open_issues": 331,
                 "owner": "obspy",
                 "repo": "obspy",
                 "stars": 1348,
@@ -297,7 +339,7 @@
                 "open_issues": 41,
                 "owner": "equinor",
                 "repo": "segyio",
-                "stars": 586,
+                "stars": 587,
                 "topics": [
                   "c",
                   "fast",
@@ -449,7 +491,7 @@
                 "id": 250227387,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-16T13:27:48Z",
+                "last_commit": "2026-11-17T14:08:01Z",
                 "open_issues": 1,
                 "owner": "SeisComP",
                 "repo": "seiscomp",
@@ -1008,7 +1050,7 @@
                 "open_issues": 1,
                 "owner": "bsomps",
                 "repo": "OpenGeoPlotter",
-                "stars": 48,
+                "stars": 49,
                 "topics": [
                   "cross-sections",
                   "data-science",
@@ -1120,8 +1162,8 @@
                 "id": 19599383,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-17T07:42:57Z",
-                "open_issues": 485,
+                "last_commit": "2026-11-18T07:42:58Z",
+                "open_issues": 486,
                 "owner": "landlab",
                 "repo": "landlab",
                 "stars": 452,
@@ -1141,11 +1183,11 @@
                 "id": 181411760,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-17T05:46:24Z",
-                "open_issues": 34,
+                "last_commit": "2026-11-18T03:32:40Z",
+                "open_issues": 29,
                 "owner": "Loop3D",
                 "repo": "LoopStructural",
-                "stars": 303,
+                "stars": 304,
                 "topics": [
                   "3d-modelling",
                   "faults",
@@ -1409,6 +1451,27 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T15:53:18.620Z"
+            },
+            {
+              "node_type": "item",
+              "title": "GroundwaterCast",
+              "description": "Open, reproducible pipeline publishing daily probabilistic groundwater-level forecasts for 1,300+ monitored boreholes in England, driving per-borehole calibrated Pastas models with ECMWF ensemble rainfall.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Per-borehole probabilistic groundwater-level forecasts for the UK, built entirely on open data. MapLibre explorer + artifact pack + Streamlit dashboard.",
+                "homepage": null,
+                "id": 1277178173,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-11-16T20:47:53Z",
+                "open_issues": 8,
+                "owner": "dominicm2023",
+                "repo": "groundwatercast-uk",
+                "stars": 3,
+                "topics": []
+              },
+              "first_seen": "2026-11-18T12:37:22.961Z"
             }
           ],
           "description": null,
@@ -1429,8 +1492,8 @@
                 "id": 4335832,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-17T12:02:45Z",
-                "open_issues": 815,
+                "last_commit": "2026-11-18T12:26:12Z",
+                "open_issues": 809,
                 "owner": "OPM",
                 "repo": "ResInsight",
                 "stars": 222,
@@ -1568,7 +1631,7 @@
                 "id": 33827844,
                 "language": "Julia",
                 "license": "MIT",
-                "last_commit": "2026-11-11T18:26:12Z",
+                "last_commit": "2026-11-18T11:06:26Z",
                 "open_issues": 5,
                 "owner": "JuliaEarth",
                 "repo": "GeoStats.jl",
@@ -1950,6 +2013,45 @@
             },
             {
               "node_type": "item",
+              "title": "AI Segmentation by TerraLab",
+              "description": "QGIS plugin for point-and-click segmentation of buildings, trees and any object in satellite and drone imagery into vector polygons. Free local CPU mode, no cloud needed.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Segment Anything in QGIS: click an object to get its outline, or name what you want (buildings, solar panels, trees) and get every match as vector polygons. QGIS plugin by TerraLab, free tier, no GPU needed.",
+                "homepage": "https://terra-lab.ai/ai-segmentation",
+                "id": 1138307131,
+                "language": "Python",
+                "license": "GPL-2.0",
+                "last_commit": "2026-10-16T02:05:16Z",
+                "open_issues": 0,
+                "owner": "TerraLabAI",
+                "repo": "QGIS_AI-Segmentation",
+                "stars": 45,
+                "topics": [
+                  "ai",
+                  "building-footprint",
+                  "computer-vision",
+                  "geoai",
+                  "geospatial",
+                  "gis",
+                  "object-detection",
+                  "python",
+                  "qgis",
+                  "qgis-plugin",
+                  "raster",
+                  "remote-sensing",
+                  "sam",
+                  "segment-anything",
+                  "segmentation",
+                  "terralab",
+                  "vectorization"
+                ]
+              },
+              "first_seen": "2026-11-18T12:37:22.961Z"
+            },
+            {
+              "node_type": "item",
               "title": "vtk_triangulate_points",
               "description": "Generate simplified topography surfaces from dense point clouds (lidar/radar/drone).",
               "children": [],
@@ -2251,7 +2353,7 @@
                 "id": 24879346,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-11T13:56:16Z",
+                "last_commit": "2026-11-18T06:44:03Z",
                 "open_issues": 0,
                 "owner": "ondrolexa",
                 "repo": "apsg",
@@ -2376,11 +2478,11 @@
                 "id": 92974124,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-14T20:11:42Z",
-                "open_issues": 541,
+                "last_commit": "2026-11-17T20:49:28Z",
+                "open_issues": 539,
                 "owner": "pyvista",
                 "repo": "pyvista",
-                "stars": 3884,
+                "stars": 3886,
                 "topics": [
                   "3d",
                   "finite-element-analysis",
@@ -2423,6 +2525,41 @@
                 ]
               },
               "first_seen": "2026-08-28T15:53:18.620Z"
+            },
+            {
+              "node_type": "item",
+              "title": "K3D-jupyter",
+              "description": "3D visualization in Jupyter notebooks: volumes, isosurfaces, point clouds and streamlines from NumPy arrays.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "WebGL 3D plotting for Jupyter: meshes, isosurfaces, volumes, voxels and point clouds from NumPy arrays, with a path-traced cinematic renderer.",
+                "homepage": "https://k3d-jupyter.org",
+                "id": 44377817,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-11-17T13:34:47Z",
+                "open_issues": 6,
+                "owner": "K3D-tools",
+                "repo": "K3D-jupyter",
+                "stars": 1044,
+                "topics": [
+                  "3d",
+                  "anywidget",
+                  "isosurface",
+                  "jupyter",
+                  "jupyter-widget",
+                  "numpy",
+                  "path-tracing",
+                  "point-cloud",
+                  "scientific-visualization",
+                  "visualization",
+                  "volume-rendering",
+                  "voxel",
+                  "webgl"
+                ]
+              },
+              "first_seen": "2026-11-18T12:37:22.961Z"
             },
             {
               "node_type": "item",
@@ -2489,6 +2626,39 @@
             },
             {
               "node_type": "item",
+              "title": "GeoVista",
+              "description": "Cartographic rendering and mesh analytics powered by PyVista.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Cartographic rendering and mesh analytics powered by PyVista 🌍",
+                "homepage": "https://geovista.readthedocs.io/",
+                "id": 366434296,
+                "language": "Python",
+                "license": "BSD-3-Clause",
+                "last_commit": "2026-11-18T10:47:34Z",
+                "open_issues": 84,
+                "owner": "bjlittle",
+                "repo": "geovista",
+                "stars": 235,
+                "topics": [
+                  "cartography",
+                  "curvilinear",
+                  "earth-science",
+                  "grid",
+                  "mesh",
+                  "python",
+                  "pyvista",
+                  "rectilinear",
+                  "ugrid",
+                  "unstructured",
+                  "vtk"
+                ]
+              },
+              "first_seen": "2026-08-28T15:53:18.620Z"
+            },
+            {
+              "node_type": "item",
               "title": "PVGeo",
               "description": "Data and model visualization in ParaView and Visualization Toolkit (VTK) via PyVista.",
               "children": [],
@@ -2516,39 +2686,6 @@
                   "python",
                   "visual-data-integration",
                   "visualization",
-                  "vtk"
-                ]
-              },
-              "first_seen": "2026-08-28T15:53:18.620Z"
-            },
-            {
-              "node_type": "item",
-              "title": "GeoVista",
-              "description": "Cartographic rendering and mesh analytics powered by PyVista.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Cartographic rendering and mesh analytics powered by PyVista 🌍",
-                "homepage": "https://geovista.readthedocs.io/",
-                "id": 366434296,
-                "language": "Python",
-                "license": "BSD-3-Clause",
-                "last_commit": "2026-11-17T11:35:29Z",
-                "open_issues": 81,
-                "owner": "bjlittle",
-                "repo": "geovista",
-                "stars": 234,
-                "topics": [
-                  "cartography",
-                  "curvilinear",
-                  "earth-science",
-                  "grid",
-                  "mesh",
-                  "python",
-                  "pyvista",
-                  "rectilinear",
-                  "ugrid",
-                  "unstructured",
                   "vtk"
                 ]
               },
@@ -2636,11 +2773,11 @@
                 "id": 187247007,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-17T11:19:37Z",
-                "open_issues": 725,
+                "last_commit": "2026-11-17T21:33:49Z",
+                "open_issues": 729,
                 "owner": "OSGeo",
                 "repo": "grass",
-                "stars": 1188,
+                "stars": 1190,
                 "topics": [
                   "arrays",
                   "data-science",
@@ -2678,8 +2815,8 @@
                 "id": 200015280,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-11-17T12:31:38Z",
-                "open_issues": 7,
+                "last_commit": "2026-11-17T16:53:10Z",
+                "open_issues": 5,
                 "owner": "Geode-solutions",
                 "repo": "OpenGeode",
                 "stars": 181,
@@ -2704,11 +2841,11 @@
                 "id": 33455452,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-17T09:45:03Z",
+                "last_commit": "2026-11-17T18:03:45Z",
                 "open_issues": 6,
                 "owner": "OpendTect",
                 "repo": "OpendTect",
-                "stars": 144,
+                "stars": 145,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:53:18.620Z"
@@ -2822,7 +2959,7 @@
                 "id": 58158965,
                 "language": "R",
                 "license": null,
-                "last_commit": "2026-11-17T00:01:28Z",
+                "last_commit": "2026-11-17T19:05:16Z",
                 "open_issues": 0,
                 "owner": "pvermees",
                 "repo": "IsoplotR",
@@ -2843,7 +2980,7 @@
                 "id": 14438041,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-29T19:02:52Z",
+                "last_commit": "2026-11-17T23:33:50Z",
                 "open_issues": 110,
                 "owner": "NMGRL",
                 "repo": "pychron",
@@ -2869,10 +3006,84 @@
         }
       ],
       "title": "Software"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Türkiye Deprem Verisi",
+          "description": "Turkey-specific earthquake catalogue and seismic waveform dataset: 84,100 deduplicated events (USGS+EMSC+ISC, 1990-present) and 5,413 real multi-component strong-motion/broadband waveform records with engineering features (PGA/PGV/Sa/Arias/CAV) and site classification (Vs30/NEHRP, 277 stations). Also on Hugging Face, archived with a Zenodo DOI (10.5281/zenodo.22754705).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Türkiye'ye özel, açık kaynaklardan derlenmiş deprem veri seti (84.080 olay, gerçek dalga formları, PGA/PGV/Vs30)",
+            "homepage": "https://huggingface.co/datasets/Ayberkkr/turkiye-deprem-verisi",
+            "id": 1367346558,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-11-16T07:57:43Z",
+            "open_issues": 4,
+            "owner": "Ayberkrk",
+            "repo": "turkiye-deprem-verisi",
+            "stars": 1,
+            "topics": [
+              "dataset",
+              "earthquake",
+              "earthquake-engineering",
+              "geospatial",
+              "good-first-issue",
+              "ground-motion",
+              "hacktoberfest",
+              "machine-learning",
+              "obspy",
+              "open-data",
+              "seismology",
+              "strong-motion",
+              "turkey"
+            ]
+          },
+          "first_seen": "2026-11-18T12:37:22.961Z"
+        }
+      ],
+      "title": "Data Repositories"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "gio",
+          "description": "Geoscience file input and output functions for less-than standard data formats.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Read and write subsurface data files describing surfaces, grids and horizons.",
+            "homepage": "https://code.agilescientific.com/gio/",
+            "id": 41432377,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2023-10-10T20:42:59Z",
+            "open_issues": 13,
+            "owner": "softwareunderground",
+            "repo": "gio",
+            "stars": 65,
+            "topics": [
+              "geology",
+              "geophysics",
+              "geospatial",
+              "grids",
+              "subsurface"
+            ]
+          },
+          "first_seen": "2026-11-18T12:37:22.961Z"
+        }
+      ],
+      "title": "Miscellaneous"
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T12:44:52.084Z",
+    "last_updated": "2026-11-18T12:37:22.961Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated from repositories that make our lives as geoscientists, hackers and data wranglers easier or just more awesome",
@@ -2880,11 +3091,11 @@
       "id": 107413465,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-05-26T11:55:08Z",
-      "open_issues": 22,
+      "last_commit": "2026-11-18T06:19:27Z",
+      "open_issues": 15,
       "owner": "softwareunderground",
       "repo": "awesome-open-geoscience",
-      "stars": 1887,
+      "stars": 1889,
       "topics": [
         "awesome",
         "awesome-list",
@@ -2908,7 +3119,7 @@
         "subsurface"
       ]
     },
-    "original_repository_sha": "7f4ec7e291a82cd8485a3dba141537ca38d3dc02",
+    "original_repository_sha": "9997dc0a5330d1c3fe4cd2fdaa8536b772971717",
     "enhanced_repository": "enhansome/enhansome-open-geoscience",
     "enhanced_repository_description": null,
     "title": "Awesome Open Geoscience with stars"
